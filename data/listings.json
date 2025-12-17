@@ -1,5 +1,15 @@
 {
   "source": "https://live.euronext.com/nb/ipo-showcase",
-  "generated_at": "2025-12-17T09:00:16+00:00",
-  "items": []
+  "generated_at": "2025-12-17T09:52:18+00:00",
+  "items": [
+    {
+      "date": "18/12/2025",
+      "company": "Sea1 Offshore",
+      "ticker": "SEA1",
+      "isin": "KYG812291253",
+      "location": "Oslo",
+      "market": "Euronext Growth",
+      "url": "https://live.euronext.com/nb/ipo-showcase/sea1-offshore"
+    }
+  ]
 }
