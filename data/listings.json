@@ -1,15 +1,5 @@
 {
   "source": "https://live.euronext.com/nb/ipo-showcase",
-  "generated_at": "2026-03-11T23:38:56+00:00",
-  "items": [
-    {
-      "date": "09/03/2026",
-      "company": "PELAGIC CREDIT",
-      "ticker": "PLGC",
-      "isin": "CY0201332216",
-      "location": "Oslo",
-      "market": "Euronext Growth",
-      "url": "https://live.euronext.com/nb/ipo-showcase/pelagic-credit"
-    }
-  ]
+  "generated_at": "2026-03-12T03:10:31+00:00",
+  "items": []
 }
