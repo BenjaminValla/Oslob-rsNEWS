@@ -1,7 +1,16 @@
 {
   "source": "https://live.euronext.com/nb/ipo-showcase",
-  "generated_at": "2026-03-25T13:48:22+00:00",
+  "generated_at": "2026-03-25T15:19:53+00:00",
   "items": [
+    {
+      "date": "26/03/2026",
+      "company": "GENERAL OCEANS",
+      "ticker": "GENO",
+      "isin": "NO0013713115",
+      "location": "Oslo",
+      "market": "Euronext Oslo Børs",
+      "url": "https://live.euronext.com/nb/ipo-showcase/general-oceans"
+    },
     {
       "date": "25/03/2026",
       "company": "JACKTEL",
