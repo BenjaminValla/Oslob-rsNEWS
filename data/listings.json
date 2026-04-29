@@ -1,7 +1,16 @@
 {
   "source": "https://live.euronext.com/nb/ipo-showcase",
-  "generated_at": "2026-04-29T11:53:40+00:00",
+  "generated_at": "2026-04-29T14:28:47+00:00",
   "items": [
+    {
+      "date": "30/04/2026",
+      "company": "Soiltech ASA",
+      "ticker": "STECH",
+      "isin": "NO0010713571",
+      "location": "Oslo",
+      "market": "Euronext Oslo Børs",
+      "url": "https://live.euronext.com/nb/ipo-showcase/soiltech-asa"
+    },
     {
       "date": "27/04/2026",
       "company": "BEWI Invest ASA",
