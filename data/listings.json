@@ -1,6 +1,6 @@
 {
   "source": "https://live.euronext.com/nb/ipo-showcase",
-  "generated_at": "2026-04-29T23:08:45+00:00",
+  "generated_at": "2026-04-30T00:05:58+00:00",
   "items": [
     {
       "date": "30/04/2026",
@@ -10,15 +10,6 @@
       "location": "Oslo",
       "market": "Euronext Oslo Børs",
       "url": "https://live.euronext.com/nb/ipo-showcase/soiltech-asa"
-    },
-    {
-      "date": "27/04/2026",
-      "company": "BEWI Invest ASA",
-      "ticker": "BINT",
-      "isin": "NO0013711721",
-      "location": "Oslo",
-      "market": "Euronext Oslo Børs",
-      "url": "https://live.euronext.com/nb/ipo-showcase/bewi-invest-asa"
     }
   ]
 }
