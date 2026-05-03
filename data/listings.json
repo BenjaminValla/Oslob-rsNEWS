@@ -1,15 +1,5 @@
 {
   "source": "https://live.euronext.com/nb/ipo-showcase",
-  "generated_at": "2026-05-02T23:58:52+00:00",
-  "items": [
-    {
-      "date": "30/04/2026",
-      "company": "Soiltech ASA",
-      "ticker": "STECH",
-      "isin": "NO0010713571",
-      "location": "Oslo",
-      "market": "Euronext Oslo Børs",
-      "url": "https://live.euronext.com/nb/ipo-showcase/soiltech-asa"
-    }
-  ]
+  "generated_at": "2026-05-03T04:08:49+00:00",
+  "items": []
 }
