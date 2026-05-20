@@ -1,5 +1,24 @@
 {
   "source": "https://live.euronext.com/nb/ipo-showcase",
-  "generated_at": "2026-05-20T12:02:17+00:00",
-  "items": []
+  "generated_at": "2026-05-20T15:53:46+00:00",
+  "items": [
+    {
+      "date": "21/05/2026",
+      "company": "PPI PUBLIC PROPERTY INVEST AB (PUBL)",
+      "ticker": "PUBLI",
+      "isin": "SE0028799411",
+      "location": "Oslo",
+      "market": "Euronext Oslo Børs",
+      "url": "https://live.euronext.com/nb/ipo-showcase/ppi-public-property-invest-ab-publ"
+    },
+    {
+      "date": "21/05/2026",
+      "company": "BORR DRILLING LIMITED",
+      "ticker": "BORR",
+      "isin": "BMG1466R1732",
+      "location": "Oslo",
+      "market": "Euronext Oslo Børs",
+      "url": "https://live.euronext.com/nb/ipo-showcase/borr-drilling-limited"
+    }
+  ]
 }
