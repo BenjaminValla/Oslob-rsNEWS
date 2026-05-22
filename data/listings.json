@@ -1,7 +1,16 @@
 {
   "source": "https://live.euronext.com/nb/ipo-showcase",
-  "generated_at": "2026-05-22T11:58:54+00:00",
+  "generated_at": "2026-05-22T15:19:26+00:00",
   "items": [
+    {
+      "date": "26/05/2026",
+      "company": "CONSTELLATION OIL SERVICES HOLDING S.A.",
+      "ticker": "COSH",
+      "isin": "NO0013597419",
+      "location": "Oslo",
+      "market": "Euronext Oslo Børs",
+      "url": "https://live.euronext.com/nb/ipo-showcase/constellation-oil-services-holding-sa"
+    },
     {
       "date": "21/05/2026",
       "company": "PPI PUBLIC PROPERTY INVEST AB (PUBL)",
