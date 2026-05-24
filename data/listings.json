@@ -1,6 +1,6 @@
 {
   "source": "https://live.euronext.com/nb/ipo-showcase",
-  "generated_at": "2026-05-23T23:09:03+00:00",
+  "generated_at": "2026-05-24T00:09:53+00:00",
   "items": [
     {
       "date": "26/05/2026",
@@ -10,24 +10,6 @@
       "location": "Oslo",
       "market": "Euronext Oslo Børs",
       "url": "https://live.euronext.com/nb/ipo-showcase/constellation-oil-services-holding-sa"
-    },
-    {
-      "date": "21/05/2026",
-      "company": "PPI PUBLIC PROPERTY INVEST AB (PUBL)",
-      "ticker": "PUBLI",
-      "isin": "SE0028799411",
-      "location": "Oslo",
-      "market": "Euronext Oslo Børs",
-      "url": "https://live.euronext.com/nb/ipo-showcase/ppi-public-property-invest-ab-publ"
-    },
-    {
-      "date": "21/05/2026",
-      "company": "BORR DRILLING LIMITED",
-      "ticker": "BORR",
-      "isin": "BMG1466R1732",
-      "location": "Oslo",
-      "market": "Euronext Oslo Børs",
-      "url": "https://live.euronext.com/nb/ipo-showcase/borr-drilling-limited"
     }
   ]
 }
