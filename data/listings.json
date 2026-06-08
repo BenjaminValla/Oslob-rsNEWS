@@ -1,6 +1,6 @@
 {
   "source": "https://live.euronext.com/nb/ipo-showcase",
-  "generated_at": "2026-06-07T22:15:56+00:00",
+  "generated_at": "2026-06-08T00:20:25+00:00",
   "items": [
     {
       "date": "08/06/2026",
@@ -10,15 +10,6 @@
       "location": "Oslo",
       "market": "Euronext Growth",
       "url": "https://live.euronext.com/nb/ipo-showcase/magnora-data-cente"
-    },
-    {
-      "date": "05/06/2026",
-      "company": "SHAMARAN PETROLEUM",
-      "ticker": "SNM",
-      "isin": "BMG8080M1001",
-      "location": "Oslo",
-      "market": "Euronext Growth",
-      "url": "https://live.euronext.com/nb/ipo-showcase/shamaran-petroleum"
     }
   ]
 }
