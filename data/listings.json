@@ -1,15 +1,5 @@
 {
   "source": "https://live.euronext.com/nb/ipo-showcase",
-  "generated_at": "2026-06-20T22:21:04+00:00",
-  "items": [
-    {
-      "date": "18/06/2026",
-      "company": "BOHUS",
-      "ticker": "BOHUS",
-      "isin": "NO0013753343",
-      "location": "Oslo",
-      "market": "Euronext Oslo Børs",
-      "url": "https://live.euronext.com/nb/ipo-showcase/bohus"
-    }
-  ]
+  "generated_at": "2026-06-21T00:19:46+00:00",
+  "items": []
 }
