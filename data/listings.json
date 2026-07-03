@@ -1,6 +1,6 @@
 {
   "source": "https://live.euronext.com/nb/ipo-showcase",
-  "generated_at": "2026-07-02T22:17:08+00:00",
+  "generated_at": "2026-07-03T00:17:40+00:00",
   "items": [
     {
       "date": "02/07/2026",
@@ -19,15 +19,6 @@
       "location": "Oslo",
       "market": "Euronext Growth",
       "url": "https://live.euronext.com/nb/ipo-showcase/gold-road-international-plc"
-    },
-    {
-      "date": "30/06/2026",
-      "company": "QUESTERRE EN PREF",
-      "ticker": "QGAS",
-      "isin": "CA74836K3082",
-      "location": "Oslo",
-      "market": "Euronext Growth",
-      "url": "https://live.euronext.com/nb/ipo-showcase/questerre-en-pref"
     }
   ]
 }
