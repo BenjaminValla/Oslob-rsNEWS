@@ -1,6 +1,6 @@
 {
   "source": "https://live.euronext.com/nb/ipo-showcase",
-  "generated_at": "2026-07-03T23:18:52+00:00",
+  "generated_at": "2026-07-04T03:58:47+00:00",
   "items": [
     {
       "date": "02/07/2026",
@@ -10,15 +10,6 @@
       "location": "Oslo",
       "market": "Euronext Growth",
       "url": "https://live.euronext.com/nb/ipo-showcase/pelican-aqua-holding"
-    },
-    {
-      "date": "01/07/2026",
-      "company": "Gold Road International  P.L.C",
-      "ticker": "GOLDR",
-      "isin": "MT0003060101",
-      "location": "Oslo",
-      "market": "Euronext Growth",
-      "url": "https://live.euronext.com/nb/ipo-showcase/gold-road-international-plc"
     }
   ]
 }
