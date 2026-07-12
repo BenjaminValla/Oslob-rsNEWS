@@ -1,15 +1,5 @@
 {
   "source": "https://live.euronext.com/nb/ipo-showcase",
-  "generated_at": "2026-07-11T23:07:46+00:00",
-  "items": [
-    {
-      "date": "09/07/2026",
-      "company": "Polar Resources AS",
-      "ticker": "POLAR",
-      "isin": "NO0013756361",
-      "location": "Oslo",
-      "market": "Euronext Growth",
-      "url": "https://live.euronext.com/nb/ipo-showcase/polar-resources"
-    }
-  ]
+  "generated_at": "2026-07-12T00:08:21+00:00",
+  "items": []
 }
