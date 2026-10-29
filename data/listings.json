@@ -1,15 +1,5 @@
 {
   "source": "https://live.euronext.com/nb/ipo-showcase",
-  "generated_at": "2026-10-28T23:10:04+00:00",
-  "items": [
-    {
-      "date": "26/10/2026",
-      "company": "Ajax Resources PLC",
-      "ticker": "AJAXR",
-      "isin": "GB00BLNBD412",
-      "location": "Oslo",
-      "market": "Euronext Growth",
-      "url": "https://live.euronext.com/nb/ipo-showcase/ajax-resources-plc"
-    }
-  ]
+  "generated_at": "2026-10-29T02:23:16+00:00",
+  "items": []
 }
