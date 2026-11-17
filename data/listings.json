@@ -1,5 +1,15 @@
 {
   "source": "https://live.euronext.com/nb/ipo-showcase",
-  "generated_at": "2026-11-17T13:15:38+00:00",
-  "items": []
+  "generated_at": "2026-11-17T22:16:33+00:00",
+  "items": [
+    {
+      "date": "18/11/2026",
+      "company": "Cetus Maritime Holdings Limited",
+      "ticker": "CTUS",
+      "isin": "KYG203121077",
+      "location": "Oslo",
+      "market": "Euronext Growth",
+      "url": "https://live.euronext.com/nb/ipo-showcase/cetus-maritime-holdings-limited"
+    }
+  ]
 }
