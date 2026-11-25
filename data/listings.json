@@ -1,7 +1,16 @@
 {
   "source": "https://live.euronext.com/nb/ipo-showcase",
-  "generated_at": "2026-11-25T09:47:18+00:00",
+  "generated_at": "2026-11-25T19:53:48+00:00",
   "items": [
+    {
+      "date": "26/11/2026",
+      "company": "Heder Bank ASA",
+      "ticker": "HEDER",
+      "isin": "NO0013774166",
+      "location": "Oslo",
+      "market": "Euronext Oslo Børs",
+      "url": "https://live.euronext.com/nb/ipo-showcase/heder-bank-asa"
+    },
     {
       "date": "25/11/2026",
       "company": "Capital Tankers Corp.",
